@@ -1,5 +1,7 @@
-# My-FirstGithub
-only do some test
+#include <stdio.h>
 
-Hello Github
+void main()
+{
+  printf("hello world");
+}
 
